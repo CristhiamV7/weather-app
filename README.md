@@ -35,6 +35,21 @@ Weather Application is a weather forecasting app built with Next.js and React. I
    ```
 3. 🌐 Open `http://localhost:3000` in your browser.
 
+## Testing
+
+This project uses **Jest** and **React Testing Library** for testing.
+
+### Running Tests
+
+To execute the test suite, run:
+```sh
+npm test
+```
+
+### Testing Tools Used
+- ✅ Jest - JavaScript testing framework
+- 🔍 React Testing Library - For testing React components
+
 ## Technologies Used
 - ⚛️ Next.js
 - ⚙️ React
