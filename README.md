@@ -25,7 +25,7 @@ Weather Application is a weather forecasting app built with Next.js and React. I
 
 ## Usage
 
-1. 📝 Create a `.env.local` file in the root directory and add your OpenWeather API key:
+1. 📝 Create a `.env` file in the root directory and add your OpenWeather API key:
    ```sh
    NEXT_PUBLIC_WEATHER_API_KEY=your_api_key_here
    ```
